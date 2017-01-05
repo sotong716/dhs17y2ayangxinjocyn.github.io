@@ -4,8 +4,6 @@ color: purple;
 h2{
 color: purple;
 }
-body {font-family: Verdana, Arial, Helvetica, 
-     Futura, sans-serif; 
-     font-size: 1em; 
-     padding:0; 
-     margin:0; }
+body {
+font-family: Verdana;
+}
